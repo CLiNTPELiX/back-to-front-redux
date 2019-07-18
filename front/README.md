@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# Checkpoint-4-Wild Circus alpha 0.1
+
 
 ## Available Scripts
 
