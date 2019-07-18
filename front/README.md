@@ -1,6 +1,8 @@
 
 # Checkpoint-4-Wild Circus alpha 0.1
 
+Very simple site to present Wild-Circus show (with enumerating different representations inside)
+
 
 ## Available Scripts
 
